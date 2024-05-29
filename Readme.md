@@ -1,4 +1,4 @@
-# GCER Blogs🧾
+# GECR Blogs🧾
 
 Welcome to GECR Blogs - a platform designed for college seniors to share their experiences, guide juniors, and engage in meaningful discussions through blogs. Whether you're looking to document your journey, offer advice, or seek insights from others, GECR Blogs provides the perfect avenue for connecting with your peers.
 
